@@ -1,1 +1,1 @@
-# kurz-java-1
+# Programko - Vzorové riešenia úloh pre kurz Java 1
